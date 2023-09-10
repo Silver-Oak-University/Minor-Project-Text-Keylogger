@@ -63,8 +63,8 @@ Download & install
 
  **Type This Command To The Terminal**:   
      
-     git clone https://github.com/Er-Parag-Cyber/text-keylogger.git
-     cd text-keylogger
+     git clone https://github.com/Silver-Oak-University/Minor-Project-Text-Keylogger.git
+     cd Minor-Project-Text-Keylogger.git
      python keylogger.py
 **Some uses of a keylogger are**:
 
